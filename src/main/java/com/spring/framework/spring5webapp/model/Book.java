@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Pallab Banerjee
+ * @author Pallab Banerjee
  */
 @Entity
 public class Book {

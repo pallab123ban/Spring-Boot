@@ -1,7 +1,7 @@
 package com.spring.framework.spring5webapp.model;
 
 /**
- * Pallab Banerjee
+ * @author Pallab Banerjee
  */
 
 import javax.persistence.*;
