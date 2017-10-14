@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.spring.framework.spring5webapp.repositories.AuthorRepository;
 
 /**
- * 
+ * This is author controller class
  * @author Pallab Banerjee
  *
  */
